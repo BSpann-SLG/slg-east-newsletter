@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Spann Not Spam",
     "description": "",
-    "home_page_url": "http://www.spannnotspam.com",
-    "feed_url": "http://www.spannnotspam.com/feed.json",
+    "home_page_url": "https://www.spannnotspam.com",
+    "feed_url": "https://www.spannnotspam.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Brian Spann"
