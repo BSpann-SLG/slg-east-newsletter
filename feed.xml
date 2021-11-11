@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>SpannNotSpam</title>
-    <link href="http://spannnotspam.com/feed.xml" rel="self" />
-    <link href="http://spannnotspam.com" />
+    <link href="http://www.spannnotspam.com/feed.xml" rel="self" />
+    <link href="http://www.spannnotspam.com" />
     <updated>2021-11-11T14:28:37-05:00</updated>
     <author>
         <name>Brian Spann</name>
     </author>
-    <id>http://spannnotspam.com</id>
+    <id>http://www.spannnotspam.com</id>
 
     <entry>
         <title>Test Post</title>
         <author>
             <name>Brian Spann</name>
         </author>
-        <link href="http://spannnotspam.com/test-post/"/>
-        <id>http://spannnotspam.com/test-post/</id>
+        <link href="http://www.spannnotspam.com/test-post/"/>
+        <id>http://www.spannnotspam.com/test-post/</id>
 
         <updated>2021-11-11T14:28:37-05:00</updated>
             <summary>
