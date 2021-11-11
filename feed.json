@@ -9,19 +9,5 @@
         "name": "Brian Spann"
     },
     "items": [
-        {
-            "id": "http://www.spannnotspam.com/test-post/",
-            "url": "http://www.spannnotspam.com/test-post/",
-            "title": "Test Post",
-            "summary": "This is my first post using Publii.",
-            "content_html": "<p>This is my first post using Publii.</p>",
-            "author": {
-                "name": "Brian Spann"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-11-11T14:28:37-05:00",
-            "date_modified": "2021-11-11T14:28:37-05:00"
-        }
     ]
 }

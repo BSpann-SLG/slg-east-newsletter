@@ -3,30 +3,10 @@
     <title>SpannNotSpam</title>
     <link href="http://www.spannnotspam.com/feed.xml" rel="self" />
     <link href="http://www.spannnotspam.com" />
-    <updated>2021-11-11T14:28:37-05:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Brian Spann</name>
     </author>
     <id>http://www.spannnotspam.com</id>
 
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Brian Spann</name>
-        </author>
-        <link href="http://www.spannnotspam.com/test-post/"/>
-        <id>http://www.spannnotspam.com/test-post/</id>
-
-        <updated>2021-11-11T14:28:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                    This is my first post using Publii.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is my first post using Publii.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
